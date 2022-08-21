@@ -1,0 +1,18 @@
+# G:\Mi unidad\Developer\Java
+# El repositorio local se encuentra en
+# G:\Mi unidad\Developer\Java\.git
+# =============================================================
+# Rutas y/o carpetas
+# G:\Mi unidad\Developer\Java
+.vscode
+# demo
+# class
+/test/demo/target/
+/test/demo/.editorconfig
+# HolaMundo
+# class
+/test/HolaMundo/bin/
+# =============================================================
+# Archivos
+desktop.ini
+#.gitignore
